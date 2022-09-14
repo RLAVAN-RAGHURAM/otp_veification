@@ -1,0 +1,13 @@
+body{
+background-color: cornflowerblue;
+}
+#select{
+width:30%;
+}
+#textarea{
+width:80%;
+}
+h1{
+background-color: aqua;
+padding: 15px;
+}
